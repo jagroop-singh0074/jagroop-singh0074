@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jagroop Singh
+- 👋 Hi, I’m Jagroop Singh
 - 👀 I’m interested in game coding 
 - 🌱 I’m currently learning unity C#
 - 💞️ I’m looking to collaborate on ...
